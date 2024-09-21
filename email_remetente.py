@@ -1,1 +1,0 @@
-email_usuario= "pedrinhorrocha991@gmail.com"
